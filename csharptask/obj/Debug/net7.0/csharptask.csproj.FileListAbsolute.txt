@@ -1,0 +1,15 @@
+/Users/kenan/Desktop/csharpTasks/csharptask/bin/Debug/net7.0/csharptask
+/Users/kenan/Desktop/csharpTasks/csharptask/bin/Debug/net7.0/csharptask.deps.json
+/Users/kenan/Desktop/csharpTasks/csharptask/bin/Debug/net7.0/csharptask.runtimeconfig.json
+/Users/kenan/Desktop/csharpTasks/csharptask/bin/Debug/net7.0/csharptask.dll
+/Users/kenan/Desktop/csharpTasks/csharptask/bin/Debug/net7.0/csharptask.pdb
+/Users/kenan/Desktop/csharpTasks/csharptask/obj/Debug/net7.0/csharptask.csproj.AssemblyReference.cache
+/Users/kenan/Desktop/csharpTasks/csharptask/obj/Debug/net7.0/csharptask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenan/Desktop/csharpTasks/csharptask/obj/Debug/net7.0/csharptask.AssemblyInfoInputs.cache
+/Users/kenan/Desktop/csharpTasks/csharptask/obj/Debug/net7.0/csharptask.AssemblyInfo.cs
+/Users/kenan/Desktop/csharpTasks/csharptask/obj/Debug/net7.0/csharptask.csproj.CoreCompileInputs.cache
+/Users/kenan/Desktop/csharpTasks/csharptask/obj/Debug/net7.0/csharptask.dll
+/Users/kenan/Desktop/csharpTasks/csharptask/obj/Debug/net7.0/refint/csharptask.dll
+/Users/kenan/Desktop/csharpTasks/csharptask/obj/Debug/net7.0/csharptask.pdb
+/Users/kenan/Desktop/csharpTasks/csharptask/obj/Debug/net7.0/csharptask.genruntimeconfig.cache
+/Users/kenan/Desktop/csharpTasks/csharptask/obj/Debug/net7.0/ref/csharptask.dll
